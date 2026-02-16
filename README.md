@@ -3,7 +3,7 @@ this is my mern satck application
 this can set by 
 frontend part 
 ----------------
-npm create vite@tatest
+npm create vite@latest
 
 npm install axios
 
